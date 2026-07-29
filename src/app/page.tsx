@@ -35,7 +35,7 @@ export default function Home() {
 
   return (
      <div className="p-4">
-     <h1 className="text-6xl font-bold mb-4 text-center dark:text-white">Fabric Flashcards</h1>
+     <h1 className="text-6xl font-bold mb-4 text-center dark:text-white">DP-700 Flashcards</h1>
      <h2 className="text-2xl font-bold mb-4 text-center dark:text-white">Select a topic to get started</h2>
       <Topic topics={topics} onTopicChange={onTopicChange} onModuleTitleChange={onModuleTitleChange} />
       <FlashCard QandAs={QAs} topic={topic} moduleTitle={moduleTitle} />
