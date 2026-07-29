@@ -5,9 +5,10 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Fabric Flashcards',
-  description: 'Flashcards that help you learn about Microsoft Fabric',
+  title: 'DP-700 Flashcards',
+  description: 'Flashcards for DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric',
 }
+
 
 export default function RootLayout({
   children,
