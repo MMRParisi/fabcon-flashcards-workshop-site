@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'DP-700 Flashcards',
-  description: 'Flashcards for DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric',
+  description: 'Flashcards for DP-800: SQL AI Developer Associate',
 }
 
 
