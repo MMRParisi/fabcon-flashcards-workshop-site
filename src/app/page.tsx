@@ -12,7 +12,7 @@ const topicsURL = "https://raw.githubusercontent.com/MMRParisi/fabcon-flashcards
 // const QAsURL = "https://fabconworkshopalvidela.blob.core.windows.net/$web/generated-QAs.json"
 const QAsURL = "https://raw.githubusercontent.com/MMRParisi/fabcon-flashcards-workshop-site/refs/heads/main/src/generated-QAs.json"
 
-const startingTopic = "get-started-lakehouses"
+const startingTopic = "design-implement-database-objects"
 const startingModuleTitle = "Get started with lakehouses in Microsoft Fabric"
 
 export default function Home() {
